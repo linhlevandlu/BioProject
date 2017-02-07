@@ -1,5 +1,5 @@
 # BioProject
-This repository contains a version of MAELab software. A tool provides the functions on Morphometry such as segmentation, landmarks.
+This repository contains a version of MAELab software. A tool provides the functions on Morphometry such as segmentation, landmarks,.... The tool is constructing, the functions are testing and evaluating. 
 # Requirements system
 1. C++ library
 2. Qt4
